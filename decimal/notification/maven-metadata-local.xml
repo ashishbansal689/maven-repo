@@ -3,12 +3,13 @@
   <groupId>decimal</groupId>
   <artifactId>notification</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.0.2</release>
     <versions>
       <version>0.0.1</version>
       <version>1.0</version>
       <version>1.0.1</version>
+      <version>1.0.2</version>
     </versions>
-    <lastUpdated>20171212055133</lastUpdated>
+    <lastUpdated>20171218111617</lastUpdated>
   </versioning>
 </metadata>
